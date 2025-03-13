@@ -1,6 +1,6 @@
 # Hotel_Management_System:
 
-Hotel-Management-System
+Hotel_Management_System
 Hotel Management System in the Final Year (6th Semester) to showcase the function for the ease of management and monitoring of the hotel services. Language Used: HTML, JS, CSS, PHP, MySQL Software: Visual Studio Code Project Executed on: XAMPP Server OS: Win 11
 
 In the 6th semester of the final year, I developed a Hotel Management System to streamline and simplify hotel service management and monitoring. The system was designed using HTML, JS, CSS, PHP, and MySQL, ensuring a comprehensive and user-friendly experience.
